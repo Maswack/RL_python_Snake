@@ -1,3 +1,4 @@
+#WAITING FOR MODEL TO TRAIN
 # StableBaselines3-python-Snake #
 
 ## setup ##
